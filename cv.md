@@ -1,5 +1,6 @@
 # Evgenia Iozefavichus
 ----------------------------------
+
 ## My contact info
 
 * Adress: Saint-Petersburg, Russia
@@ -11,6 +12,7 @@
 * Codepen: iozefavichus
 
 ----------------------------------
+
 ## Skills
 
 * JS
@@ -34,6 +36,7 @@
 I have a little business in photography.
 
 ------------------------------------
+
 ## Languages
 
 * Russian(native)
