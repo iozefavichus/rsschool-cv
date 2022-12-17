@@ -105,12 +105,12 @@ body{
     
 }
 
-a:link{
+a.link:link{
     text-decoration: none;
     color: white;
 }
 
-a:visited{
+a.link:visited{
     text-decoration: none;
     color: white;
 }
@@ -147,7 +147,6 @@ a.linkblack:visited{
     color: white; 
     font-weight: 100;
     font-size: 12px;
-
 }
 
 .menu-nav{
