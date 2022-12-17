@@ -164,7 +164,7 @@ a.nav-link:link{
     color:#778899;
     font-size: 12px;
 }
-a.nav-limk:visited{
+a.nav-link:visited{
     text-decoration: none;
     color:#778899;
     font-size: 12px;
@@ -172,4 +172,14 @@ a.nav-limk:visited{
 
 li.nav-item{
     list-style-type: none;
+}
+
+.img_github_logo{
+    width:26px;
+    height:26px;
+}
+
+.img_rsschool{
+    width:73px;
+    height:26px;
 }
