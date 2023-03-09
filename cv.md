@@ -42,5 +42,6 @@ I have a little business in photography.
 * Russian(native)
 * English(B1)
 * Spanish(A1)
+* Greek(A1)
 
 -----------------------------------
